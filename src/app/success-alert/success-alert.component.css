@@ -1,0 +1,9 @@
+h3{
+    color: green;
+    opacity: 50;
+}
+p{
+    padding: 20px;
+    background-color: mediumspringgreen;
+    border: 1px solid green;
+}
